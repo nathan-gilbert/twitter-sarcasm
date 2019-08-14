@@ -1,0 +1,32 @@
+#seed drawn from development data, mainly contains curse words or emoticons [which often are not included in other lexicons]
+shit
+fuck
+fucked
+fucker
+bitch
+jerk
+don't
+dont
+never
+wasting
+stop
+being used
+blown off
+disease
+diseased
+scream
+screamed
+leaves
+leave
+does not
+doesn't
+doesnt
+cant
+can't
+can not
+fml
+fuck my life
+:(
+:-(
+):
+)-:
